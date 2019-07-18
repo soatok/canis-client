@@ -12,9 +12,10 @@
   "author": "Soatok Dreamseeker",
   "license": "ISC",
   "devDependencies": {
-    "electron": "^4.1.4"
+    "electron": "^5.0.7"
   },
   "dependencies": {
-    "dhole-crypto": "^0.3.0"
+    "dhole-crypto": "^0.3.0",
+    "request-promise-native": "^1.0.7"
   }
 }
